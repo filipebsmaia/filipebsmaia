@@ -6,9 +6,9 @@
 
 ## Olá 👋
 
-Meu nome é Filipe Maia, sou um desenvolvimento fullstack júnior e apaixonado por Programção.
+Meu nome é Filipe Maia, sou um desenvolvimento fullstack júnior e apaixonado por programção.
 
-- :office_worker: **Disponível**
+- :office_worker: **Disponível** para trabalhos.
 - :blue_heart: Tecnologias: React.js, React Native, Node.js, JavaScript, TypeScript, Docker e mais!
 - :books: Estudando: CI/CD com github Actions, AWS, Docker, :heart:
 
