@@ -14,4 +14,6 @@ Meu nome é Filipe Maia, sou um desenvolvimento fullstack júnior e apaixonado p
 
 <!--- > :octocat: [filipebsmaia.dev](https://filipebsmaia.dev) --->
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipebsmaia&show_icons=true" alt="filipebsmaia" />
+
 ---
