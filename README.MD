@@ -16,7 +16,7 @@
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript**
 
-- 📫 How to reach me **filipebsmaia@gmai.com**
+- 📫 How to reach me **filipebsmaia@gmail.com**
 
 - ⚡ Fun fact **I have a small dog called "Amora"**
 
