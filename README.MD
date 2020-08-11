@@ -13,8 +13,7 @@
 
 - 🌱 I’m currently learning **CI/CD using github Actions, AWS, Docker**
 
-- 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev)
-
+<!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript**
 
 - 📫 How to reach me **filipebsmaia@gmai.com**
