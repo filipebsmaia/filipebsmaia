@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipebsmaia@gmail.com" alt="mail-filipebsmaia"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=filipebsmaia" alt="filipebsmaia" /> </p>
+<!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=filipebsmaia" alt="filipebsmaia" /> </p> -->
 
 - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel)
 
