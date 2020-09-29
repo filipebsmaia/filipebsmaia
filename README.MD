@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel)
 
-- 🌱 I’m currently learning **CI/CD using github Actions, AWS, Docker**
+- 🌱 I’m currently learning **CI/CD with Actions, AWS, Docker, Firebase**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript**
