@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
-<h3 align="center">I'm a junior fullstack developer and passionate about programming</h3>
+<h3 align="center">I'm a fullstack developer and passionate about programming</h3>
 <p align="center">
   
 <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/filipebsmaia" alt="github-filipebsmaia"/>
