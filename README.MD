@@ -9,7 +9,7 @@
 
 <!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=filipebsmaia" alt="filipebsmaia" /> </p> -->
 
-- 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel)
+<!--- - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel) -->
 
 - 🌱 I’m currently learning **CI/CD with Actions, AWS, Docker, Firebase**
 
