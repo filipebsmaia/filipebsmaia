@@ -37,8 +37,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
-<p align="center">
 -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebsmaia&layout=compact&hide=html" alt="filipebsmaia" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipebsmaia&show_icons=true" alt="filipebsmaia" />
