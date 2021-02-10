@@ -21,7 +21,7 @@
 - 📫 How to reach me **filipebsmaia@gmail.com**
 
 - ⚡ Fun fact **I have a small dog called "Amora"**
-
+<!--
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -38,6 +38,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 <p align="center">
+-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipebsmaia&layout=compact&hide=html" alt="filipebsmaia" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipebsmaia&show_icons=true" alt="filipebsmaia" />
