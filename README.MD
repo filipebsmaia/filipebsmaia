@@ -11,9 +11,9 @@
 
 <!--- - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel) -->
 
-- 🌱 I’m currently learning **CI/CD with Actions, AWS, Docker, Firebase**
+- 🌱 I’m currently learning **CI/CD with Actions, AWS, Docker, GCP, NextJS**
 
-- 🤓 I want to learn **NextJS**
+- 🤓 I want to learn **Elixir**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript**
