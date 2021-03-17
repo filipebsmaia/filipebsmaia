@@ -16,7 +16,7 @@
 - 🤓 I want to learn **Elixir**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
-- 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript**
+- 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript, NextJS**
 
 - 📫 How to reach me **filipebsmaia@gmail.com**
 
