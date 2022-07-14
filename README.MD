@@ -11,12 +11,12 @@
 
 <!--- - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel) -->
 
-- 🌱 I’m currently learning **CI/CD with Actions, AWS, Docker, GCP, NextJS**
+- 🌱 I’m currently learning **Docker, Asynchronous Messaging**
 
 - 🤓 I want to learn **Elixir**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
-- 💬 Ask me about **React.js, React Native, Node.js, JavaScript, TypeScript, NextJS**
+- 💬 Ask me about **React.js, NextJS, React Native, Node.js, JavaScript, TypeScript, NextJS, GCP**
 
 - 📫 How to reach me **filipebsmaia@gmail.com**
 
