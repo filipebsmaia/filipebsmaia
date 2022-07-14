@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Docker, Asynchronous Messaging**
 
-- 🤓 I want to learn **Elixir**
+- 🤓 I want to learn **More about AWS ecosystem**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, NextJS, React Native, Node.js, JavaScript, TypeScript, NextJS, GCP**
