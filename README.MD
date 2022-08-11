@@ -10,9 +10,9 @@
 
 <!--- - 🔭 I’m currently working on [MPanel](https://github.com/filipebsmaia/mpanel) -->
 
-- 🌱 I’m currently learning **Docker, Asynchronous Messaging**
+- 🌱 I’m currently learning **Docker, Asynchronous Messaging, Clean Architecture, ReactJS, NextJS**
 
-- 🤓 I want to learn **More about AWS ecosystem**
+- 🤓 I want to learn **AWS ecosystem**
 
 <!-- - 👨‍💻 All of my projects are available at [filipebsmaia.dev](filipebsmaia.dev) -->
 - 💬 Ask me about **React.js, NextJS, React Native, Node.js, JavaScript, TypeScript, NextJS, GCP**
